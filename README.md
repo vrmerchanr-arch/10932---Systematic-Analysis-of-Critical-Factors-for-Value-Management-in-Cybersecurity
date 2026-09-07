@@ -25,7 +25,7 @@ The files here reflect the editorial revision cycle for the journal: manuscripts
 ## 📁 Repository structure
 
 ```
-├── manuscript/     # Revised Word manuscript and PDF previews
+├── manuscript/     # Revised PDF manuscript
 ├── figures/        # Vector (SVG) versions of all article figures
 └── graphical-abstract/   # Candidate graphical abstract images
 ```
@@ -36,10 +36,7 @@ The files here reflect the editorial revision cycle for the journal: manuscripts
 
 | File | Description |
 |---|---|
-| `10932 - Article text (revised v2).docx` | **Latest revised manuscript.** Word document with Figures 1, 2, and 5 rescaled to span both columns; Table II split and Table III widened to full column width with a more descriptive caption; corrected reference-list typos; and column-end blank space minimized throughout, per reviewer and editorial requests. |
-| `10932 - Article text (revised v2) - preview.pdf` | PDF export of the file above, for quick visual review without opening Word. |
-| `10932 - Article text (revised).docx` | Earlier revision pass (Figures 1, 2, 4, 5, 8, 9, 12 rescaled to both columns; Table II split into Table II/III; descriptive captions added). Kept for traceability; superseded by the *v2* file above. |
-| `10932 - Article text (revised) - preview.pdf` | PDF export of the earlier revision pass. |
+| `10932 - Article text.pdf | **Latest revised manuscript.** 
 
 > **Note:** Open the `.docx` files in Microsoft Word (or LibreOffice Writer) to review tracked layout changes in their native, editable format. The `.pdf` files are flattened previews for fast visual inspection or sharing with reviewers who do not need to edit the file.
 
