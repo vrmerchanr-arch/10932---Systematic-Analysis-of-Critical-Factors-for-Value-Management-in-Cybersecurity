@@ -4,8 +4,8 @@
 **Manuscript ID:** 10932
 
 **Authors:**
-- Vicente Merchán-Rodríguez — [ORCID](https://orcid.org/0000-0000-0000-0000) — vrmerchan@espe.edu.ec
-- Danny Zambrano-Vera — dizambrano@espe.edu.ec
+- Vicente Merchán-Rodríguez — [ORCID](https://orcid.org/0000-0002-4456-0689) — vrmerchan@espe.edu.ec
+- Danny Zambrano-Vera — [ORCID](https://orcid.org/0000-0002-5920-0790) - dizambrano@espe.edu.ec
 
 **Affiliation:**
 Universidad de las Fuerzas Armadas ESPE, Sangolquí, Ecuador
