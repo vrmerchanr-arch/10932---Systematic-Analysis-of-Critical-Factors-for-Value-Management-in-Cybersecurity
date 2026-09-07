@@ -36,7 +36,7 @@ The files here reflect the editorial revision cycle for the journal: manuscripts
 | File | Description |
 |---|---|
 | `10932 - Article text.pdf | **Latest revised manuscript.** 
-
+| `10932 - Graphical Abstract.png | **Latest graphical abstract images.** 
 
 ---
 
