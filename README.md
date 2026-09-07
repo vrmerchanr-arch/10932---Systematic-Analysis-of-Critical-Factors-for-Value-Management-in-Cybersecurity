@@ -22,7 +22,7 @@ The files here reflect the editorial revision cycle for the journal: manuscripts
 
 ---
 
-## 📁 Repository structure (branch)
+## 📁 Repository structure
 
 ```
 ├── manuscript/     # PDF manuscript and graphical abstract images
