@@ -78,6 +78,12 @@ All figures were rebuilt as native SVG (editable text, shapes, and paths — not
 
 ---
 
+## License
+
+This repository is proposed for academic and research purposes only.
+
+---
+
 ## ✉️ Contact
 
 For questions about the manuscript or replication of the review methodology:
