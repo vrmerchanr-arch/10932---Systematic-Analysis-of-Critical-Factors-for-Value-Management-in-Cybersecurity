@@ -50,6 +50,7 @@ All figures were rebuilt as native SVG (editable text, shapes, and paths — not
 | `Fig_1_Phases_of_the_systematic_review_of_the_literature.svg` | Fig. 1 | Three-phase SLR process (planning, execution, reporting), adapted from Kitchenham & Charters. |
 | `Fig_2_PRISMA_Flow_Diagram.svg` | Fig. 2 | PRISMA flow diagram (identification → screening → eligibility → included), 950 → 49 studies. |
 | `Fig_3_Temporal_distribution.svg` | Fig. 3 | Temporal distribution of the 49 included studies by publication year (2020–2025). |
+| `Fig_4_Productive authors.svg` | Fig. 4 | Productive authors. |
 | `Fig_5_Journal_Distribution.svg` / `.png` | Fig. 5 | Distribution of the 49 studies across publishing journals (donut chart with legend). |
 | `Fig_6_Distribution_of_citations.svg` | Fig. 6 | Histogram and density curve of citation counts across the 49 studies. |
 | `Fig_7_Correlation_analysis.svg` | Fig. 7 | Scatter plot and linear regression of publication year vs. citation count. |
