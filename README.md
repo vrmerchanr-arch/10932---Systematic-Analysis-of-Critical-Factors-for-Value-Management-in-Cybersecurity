@@ -25,7 +25,7 @@ The files here reflect the editorial revision cycle for the journal: manuscripts
 ## 📁 Repository structure
 
 ```
-├── manuscript/     # PDF manuscript and graphical abstract images
+├── manuscript/     # PDF manuscript and graphical abstract images/video
 ├── figures/        # Vector (SVG) versions of all article figures
 ├── code/   # Code and DataBase
 ```
@@ -51,7 +51,7 @@ All figures were rebuilt as native SVG (editable text, shapes, and paths — not
 | `Fig_2_PRISMA_Flow_Diagram.svg` | Fig. 2 | PRISMA flow diagram (identification → screening → eligibility → included), 950 → 49 studies. |
 | `Fig_3_Temporal_distribution.svg` | Fig. 3 | Temporal distribution of the 49 included studies by publication year (2020–2025). |
 | `Fig_4_Productive authors.svg` | Fig. 4 | Productive authors. |
-| `Fig_5_Journal_Distribution.svg` / `.png` | Fig. 5 | Distribution of the 49 studies across publishing journals (donut chart with legend). |
+| `Fig_5_Journal_Distribution.svg` | Fig. 5 | Distribution of the 49 studies across publishing journals (donut chart with legend). |
 | `Fig_6_Distribution_of_citations.svg` | Fig. 6 | Histogram and density curve of citation counts across the 49 studies. |
 | `Fig_7_Correlation_analysis.svg` | Fig. 7 | Scatter plot and linear regression of publication year vs. citation count. |
 | `Fig_8_Impact_by_category.svg` | Fig. 8 | Average citation count per critical success factor (CSF) category — single-line labels. |
