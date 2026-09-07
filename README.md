@@ -74,8 +74,7 @@ All figures were rebuilt as native SVG (editable text, shapes, and paths — not
 
 - **Manuscript files:** any PDF viewer (for `.pdf`).
 - **Figures:** any modern web browser or vector editor (Inkscape, Adobe Illustrator, Figma) to view or edit the `.svg` files; no special software is required to view `.png` files.
-
-No code, build steps, or dependencies are needed — all files are static documents and images.
+- **Code:** Software environment: Python 3.x with Jupyter/Colab, plus the libraries pandas, matplotlib, seaborn, numpy, wordcloud, and scikit-learn installed via pip. For file format conversion: the code expects an .xlsx file via pd.read_excel, so the CSV must either be converted to Excel or the loading line changed to pd.read_csv.
 
 ---
 
