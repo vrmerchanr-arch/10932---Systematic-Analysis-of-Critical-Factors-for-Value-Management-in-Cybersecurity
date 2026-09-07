@@ -22,12 +22,11 @@ The files here reflect the editorial revision cycle for the journal: manuscripts
 
 ---
 
-## 📁 Repository structure
+## 📁 Repository structure (branch)
 
 ```
-├── manuscript/     # Revised PDF manuscript
+├── manuscript/     # PDF manuscript and graphical abstract images
 ├── figures/        # Vector (SVG) versions of all article figures
-└── graphical-abstract/   # Candidate graphical abstract images
 ```
 
 ---
@@ -38,7 +37,6 @@ The files here reflect the editorial revision cycle for the journal: manuscripts
 |---|---|
 | `10932 - Article text.pdf | **Latest revised manuscript.** 
 
-> **Note:** Open the `.docx` files in Microsoft Word (or LibreOffice Writer) to review tracked layout changes in their native, editable format. The `.pdf` files are flattened previews for fast visual inspection or sharing with reviewers who do not need to edit the file.
 
 ---
 
@@ -55,15 +53,10 @@ All figures were rebuilt as native SVG (editable text, shapes, and paths — not
 | `Fig_6_Distribution_of_citations.svg` | Fig. 6 | Histogram and density curve of citation counts across the 49 studies. |
 | `Fig_7_Correlation_analysis.svg` | Fig. 7 | Scatter plot and linear regression of publication year vs. citation count. |
 | `Fig_8_Impact_by_category.svg` | Fig. 8 | Average citation count per critical success factor (CSF) category — single-line labels. |
-| `Fig_8_Impact_by_category_wrapped.svg` | Fig. 8 (alt.) | Same chart with category labels wrapped across multiple lines. |
 | `Fig_9_Evolution_of_CSF_by_year.svg` | Fig. 9 | Heat map of publication counts per CSF category and year — single-line labels. |
-| `Fig_9_Evolution_of_CSF_by_year_wrapped.svg` | Fig. 9 (alt.) | Same heat map with category labels wrapped across multiple lines. |
 | `Fig_10_World_cloud.svg` | Fig. 10 | Word cloud of the most frequent terms in the titles of the included studies. |
 | `Fig_11_Publication_clustering.svg` | Fig. 11 | K-means clustering of studies by publication year and citation count. |
 | `Fig_12_Emerging_topics_Discovery.svg` | Fig. 12 | Frequency of key phrases identified through text mining — single-line labels. |
-| `Fig_12_Emerging_topics_Discovery_wrapped.svg` | Fig. 12 (alt.) | Same chart with key-phrase labels wrapped across multiple lines. |
-
-> Figures marked **(alt.)** are alternate label layouts of the same underlying data, provided so the typesetter/editor can pick whichever wrapping best fits the final column width.
 
 ---
 
@@ -71,14 +64,13 @@ All figures were rebuilt as native SVG (editable text, shapes, and paths — not
 
 | File | Description |
 |---|---|
-| `graphical_abstract.png` | Graphical abstract, version 1: icon-based visual summary of the study's motivation, the six CSF categories, and the SLR evidence base. |
-| `graphical_abstract_v2.png` | Graphical abstract, version 2: refined layout with header statistics, a six-petal CSF wheel, an evidence-base funnel (950 → 49), and a closing takeaway banner. |
+| `graphical_abstract.png` | Graphical abstract: icon-based visual summary of the study's motivation, the six CSF categories, and the SLR evidence base. |
 
 ---
 
 ## 💻 Requirements
 
-- **Manuscript files:** Microsoft Word 2016+ or LibreOffice Writer (for `.docx`); any PDF viewer (for `.pdf`).
+- **Manuscript files:** any PDF viewer (for `.pdf`).
 - **Figures:** any modern web browser or vector editor (Inkscape, Adobe Illustrator, Figma) to view or edit the `.svg` files; no special software is required to view `.png` files.
 
 No code, build steps, or dependencies are needed — all files are static documents and images.
