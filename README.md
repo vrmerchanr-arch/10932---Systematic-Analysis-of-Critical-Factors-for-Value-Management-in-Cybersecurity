@@ -27,6 +27,7 @@ The files here reflect the editorial revision cycle for the journal: manuscripts
 ```
 ├── manuscript/     # PDF manuscript and graphical abstract images
 ├── figures/        # Vector (SVG) versions of all article figures
+├── code/   # Code and DataBase
 ```
 
 ---
@@ -60,11 +61,12 @@ All figures were rebuilt as native SVG (editable text, shapes, and paths — not
 
 ---
 
-## 🎨 Graphical abstract
+## 🎨 code
 
 | File | Description |
 |---|---|
-| `graphical_abstract.png` | Graphical abstract: icon-based visual summary of the study's motivation, the six CSF categories, and the SLR evidence base. |
+| `10932 - Codigo Python` | Code: the complete bibliometric analysis and figure-generation pipeline for the article "Systematic Analysis of Critical Factors for Value Management in Cybersecurity.". |
+| `DataBase - CSF de la gestion del valor` | DataBase: CSV bibliographic export containing metadata—authors, titles, abstracts, citations, DOIs—for the systematic review's included studies. |
 
 ---
 
